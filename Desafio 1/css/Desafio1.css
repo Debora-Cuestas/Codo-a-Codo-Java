@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+width: 100%px;
+}
+header img{
+    height: 60px;
+    width: 125px;
+    margin: 20px 0px 25px 10px;
+}
+nav{
+    width: 100%;
+    background-color: rgba(177, 177, 177, 0.825);
+    text-align: right;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+nav:visited{
+color: rgb(123, 123, 189);
+}
+main{
+    width: 900px;
+    margin: auto;
+   /*   padding: 15px 150px 0px 175px;*/
+}
+main img{
+    height: 80px;
+    width: 80px;
+}
+main p{
+margin: 15px 50px 0px 35px;
+}
+footer{
+    width: 100%;
+    background-color: rgba(177, 177, 177, 0.825);
+    margin-top: 50px;
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#headerlogo
+{
+    background-color: #343a40 !important;
+}
+#ButtonG
+{
+    color: #16da43;
+}
+#carouselExampleCaptions
+{
+    width: 100%;
+    
+}
+#cards
+{
+    width: 70%;
+    margin: auto;
+}
+#Oktubre
+{
+    background-color: #212529;
+
+}
+#form{
+    width: 50%;
+    margin: auto;
+}
+
+#Button
+{
+    background-color: #76ce53 !important;
+    color: white;
+}
+
+#footer
+{
+    background-color: #212f4b !important;
+    color: white;
+    font-size: 18px; 
+    padding-top: 25px;
+    height: 100px;
+    text-align:center;   
+}
+
+#js
+{
+    color: white !important;
+}
+#spam1
+{
+    color: white !important;
+}
