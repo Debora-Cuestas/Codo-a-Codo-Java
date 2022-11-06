@@ -11,6 +11,10 @@
 {
     color: #16da43;
 }
+#color_junior
+{
+    color: white;
+}
 #carouselExampleCaptions
 {
     width: 100%;
@@ -35,6 +39,26 @@
 {
     background-color: #76ce53 !important;
     color: white;
+}
+#Boton2
+{
+    background-color: #76ce53 !important;
+    color: white;
+}
+#Boton3
+{
+    background-color: #76ce53 !important;
+    color: white;
+}
+
+#Piedepagina
+{
+    background-color: #212f4b !important;
+    color: white;
+    font-size: 18px; 
+    padding-top: 25px;
+    height: 100px;
+    text-align:center;   
 }
 
 #footer
